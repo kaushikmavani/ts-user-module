@@ -1,0 +1,409 @@
+2023-11-13T23:41:42.080Z [error] An unexpected network error occurred, please try again later. | {}
+2023-11-13T23:43:31.075Z [error] An unexpected network error occurred, please try again later. | {}
+2023-11-13T23:44:58.239Z [error] An unexpected network error occurred, please try again later. | {}
+2023-11-13T23:50:01.770Z [error] Please enter valid endpoint and method. | {}
+2023-11-13T23:50:07.482Z [error] Please enter valid endpoint and method. | {}
+2023-11-13T23:51:01.102Z [error] Please enter valid endpoint and method. | {}
+2023-11-13T23:51:33.573Z [error] Please enter valid endpoint and method. | {}
+2023-11-13T23:52:04.296Z [error] Please enter valid endpoint and method. | {}
+2023-11-13T23:53:21.708Z [error] Please enter valid endpoint and method. | {}
+2023-11-13T23:56:05.162Z [error] Please enter valid endpoint and method. | {}
+2023-11-13T23:56:05.591Z [error] Please enter valid endpoint and method. | {}
+2023-11-13T23:56:08.610Z [error] Please enter valid endpoint and method. | {}
+2023-11-13T23:58:04.673Z [error] Please enter valid endpoint and method. | {}
+2023-11-13T23:59:32.610Z [error] Please enter valid endpoint and method. | {}
+2023-11-14T00:01:02.844Z [error] Please enter valid endpoint and method. | {}
+2023-11-14T00:01:08.914Z [error] [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "email"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "password"
+    ],
+    "message": "Required"
+  }
+] | {}
+2023-11-14T00:01:45.592Z [error] [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "email"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "password"
+    ],
+    "message": "Required"
+  }
+] | {}
+2023-11-14T00:09:23.885Z [error] [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "email"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "password"
+    ],
+    "message": "Required"
+  }
+] | {}
+2023-11-14T00:15:43.493Z [error] [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "email"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "password"
+    ],
+    "message": "Required"
+  }
+] | {"issues":[{"code":"invalid_type","expected":"string","received":"undefined","path":["email"],"message":"Required"},{"code":"invalid_type","expected":"string","received":"undefined","path":["password"],"message":"Required"}],"name":"ZodError"}
+2023-11-14T00:17:35.547Z [error] [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "email"
+    ],
+    "message": "Email is required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "password"
+    ],
+    "message": "Email is required"
+  }
+] | {"issues":[{"code":"invalid_type","expected":"string","received":"undefined","path":["email"],"message":"Email is required"},{"code":"invalid_type","expected":"string","received":"undefined","path":["password"],"message":"Email is required"}],"name":"ZodError"}
+2023-11-14T00:18:16.013Z [error] [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "email"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "password"
+    ],
+    "message": "Required"
+  }
+] | {"issues":[{"code":"invalid_type","expected":"string","received":"undefined","path":["email"],"message":"Required"},{"code":"invalid_type","expected":"string","received":"undefined","path":["password"],"message":"Required"}],"name":"ZodError"}
+2023-11-14T13:07:27.601Z [error] [object Object],[object Object] | {}
+2023-11-14T13:23:36.436Z [error] [object Object],[object Object] | {}
+2023-11-14T13:23:43.945Z [error] [object Object],[object Object] | {}
+2023-11-14T13:29:01.691Z [error] [object Object],[object Object] | {}
+2023-11-14T13:29:18.963Z [error] [object Object],[object Object] | {}
+2023-11-14T13:40:27.300Z [error] Required | {}
+2023-11-14T13:40:55.119Z [error] [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "email"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "password"
+    ],
+    "message": "Required"
+  }
+] | {}
+2023-11-14T13:41:09.283Z [error] [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "email"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "password"
+    ],
+    "message": "Required"
+  }
+] | {}
+2023-11-14T13:41:11.176Z [error] [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "email"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "password"
+    ],
+    "message": "Required"
+  }
+] | {}
+2023-11-14T13:41:12.204Z [error] [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "email"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "password"
+    ],
+    "message": "Required"
+  }
+] | {}
+2023-11-14T13:41:19.803Z [error] [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "email"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "password"
+    ],
+    "message": "Required"
+  }
+] | {}
+2023-11-14T13:41:31.672Z [error] [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "email"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "password"
+    ],
+    "message": "Required"
+  }
+] | {}
+2023-11-14T13:41:34.009Z [error] [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "email"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "password"
+    ],
+    "message": "Required"
+  }
+] | {}
+2023-11-14T13:41:58.751Z [error] Required | {}
+2023-11-14T13:42:07.126Z [error] Required | {}
+2023-11-14T13:44:59.550Z [error] Email is required | {}
+2023-11-14T13:45:15.883Z [error] Email is required | {}
+2023-11-14T13:45:19.429Z [error] Email is required | {}
+2023-11-14T13:45:20.688Z [error] Email is required | {}
+2023-11-14T13:45:37.294Z [error] Email is required | {}
+2023-11-14T13:46:01.583Z [error] Email is required | {}
+2023-11-14T13:47:01.893Z [error] Email is required | {}
+2023-11-14T13:47:33.206Z [error] Email is required | {}
+2023-11-14T13:48:30.871Z [error] Invalid email | {}
+2023-11-14T13:48:43.670Z [error] Invalid email | {}
+2023-11-14T13:48:45.505Z [error] Email is required | {}
+2023-11-14T13:48:46.991Z [error] Invalid email | {}
+2023-11-14T13:49:31.973Z [error] Invalid email | {}
+2023-11-14T13:49:34.749Z [error] Email is required | {}
+2023-11-14T13:49:37.973Z [error] Invalid email | {}
+2023-11-14T13:49:46.123Z [error] Password is required | {}
+2023-11-14T13:49:54.044Z [error] Invalid email | {}
+2023-11-14T13:50:06.275Z [error] Password is required | {}
+2023-11-14T13:50:15.195Z [error] Password is required | {}
+2023-11-14T13:50:17.512Z [error] Password is required | {}
+2023-11-14T14:13:18.500Z [error] MONGODB ERROR: querySrv EREFUSED _mongodb._tcp.cluster0.piyreuv.mongodb.net | {}
+2023-11-14T14:13:45.469Z [error] MONGODB ERROR: querySrv EREFUSED _mongodb._tcp.cluster0.piyreuv.mongodb.net | {}
+2023-11-14T14:14:02.752Z [error] MONGODB ERROR: querySrv EREFUSED _mongodb._tcp.cluster0.piyreuv.mongodb.net | {}
+2023-11-14T14:14:08.550Z [error] MONGODB ERROR: querySrv EREFUSED _mongodb._tcp.cluster0.piyreuv.mongodb.net | {}
+2023-11-14T14:14:23.407Z [error] MONGODB ERROR: querySrv EREFUSED _mongodb._tcp.cluster0.piyreuv.mongodb.net | {}
+2023-11-14T14:14:57.970Z [error] MONGODB ERROR: querySrv EREFUSED _mongodb._tcp.cluster0.piyreuv.mongodb.net | {}
+2023-11-14T14:30:02.612Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.cluster0.piyreuv.mongodb.net | {}
+2023-11-14T14:30:35.210Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.cluster0.piyreuv.mongodb.net | {}
+2023-11-14T14:30:42.522Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.cluster0.piyreuv.mongodb.net | {}
+2023-11-14T14:30:49.847Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.cluster0.piyreuv.mongodb.net | {}
+2023-11-14T14:42:15.616Z [error] Email is required. | {}
+2023-11-14T14:42:54.584Z [error] Email is required. | {}
+2023-11-14T14:42:56.463Z [error] Password is required. | {}
+2023-11-15T07:01:24.705Z [error] This email is not registered with us. Please use correct email address. | {}
+2023-11-15T07:33:18.942Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-15T07:33:54.017Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-15T07:34:09.656Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-15T07:39:31.320Z [error] MONGODB ERROR: querySrv EREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-15T07:39:37.185Z [error] MONGODB ERROR: querySrv EREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-15T07:39:37.943Z [error] MONGODB ERROR: querySrv EREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-15T08:13:52.642Z [error] E11000 duplicate key error collection: ecom-ts.users index: email_1 dup key: { email: "test@gmail.com" } | {}
+2023-11-15T08:48:59.639Z [error] Your password is incorrect. | {}
+2023-11-15T10:13:16.623Z [error] Please enter valid endpoint and method. | {}
+2023-11-15T10:13:16.765Z [error] Please enter valid endpoint and method. | {}
+2023-11-15T11:46:01.046Z [error] Please click on confirmation link sent to your registered email. | {}
+2023-11-15T11:46:25.329Z [error] Please click on confirmation link sent to your registered email. | {}
+2023-11-16T09:18:47.535Z [error] Please click on confirmation link sent to your registered email. | {}
+2023-11-16T09:22:45.527Z [error] Please click on confirmation link sent to your registered email. | {}
+2023-11-16T09:22:57.947Z [error] Your password is incorrect. | {}
+2023-11-16T09:23:10.691Z [error] Please click on confirmation link sent to your registered email. | {}
+2023-11-16T09:23:13.772Z [error] Please click on confirmation link sent to your registered email. | {}
+2023-11-16T09:23:18.437Z [error] Please click on confirmation link sent to your registered email. | {}
+2023-11-16T09:23:19.569Z [error] Please click on confirmation link sent to your registered email. | {}
+2023-11-16T09:37:24.990Z [error] This email is not registered with us. Please use correct email address. | {}
+2023-11-16T09:37:27.038Z [error] This email is not registered with us. Please use correct email address. | {}
+2023-11-16T09:37:34.124Z [error] This email is not registered with us. Please use correct email address. | {}
+2023-11-16T09:38:28.753Z [error] This email is not registered with us. Please use correct email address. | {}
+2023-11-16T13:17:03.331Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-16T13:31:21.682Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-16T13:35:02.779Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-16T14:13:07.480Z [error] MONGODB ERROR: connection 1 to 3.7.168.59:27017 closed | {}
+2023-11-16T14:15:44.648Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-17T03:59:19.627Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-17T04:00:15.631Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-17T04:00:21.542Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-17T04:02:29.861Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-17T04:19:26.668Z [error] Please enter valid endpoint and method. | {}
+2023-11-17T04:19:26.821Z [error] Please enter valid endpoint and method. | {}
+2023-11-17T04:58:58.177Z [error] Please enter valid endpoint and method. | {}
+2023-11-17T04:59:18.583Z [error] Please enter valid endpoint and method. | {}
+2023-11-17T05:04:37.936Z [error] Please enter valid endpoint and method. | {}
+2023-11-17T05:20:47.603Z [error] Please enter valid endpoint and method. | {}
+2023-11-17T05:24:55.448Z [error] Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "User" | {}
+2023-11-17T05:26:25.257Z [error] Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "User" | {}
+2023-11-17T05:26:43.352Z [error] Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "User" | {}
+2023-11-17T05:27:14.486Z [error] Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "User" | {}
+2023-11-17T05:28:12.536Z [error] Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "User" | {}
+2023-11-17T05:28:33.215Z [error] Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "User" | {}
+2023-11-17T05:29:18.029Z [error] Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "User" | {}
+2023-11-17T05:29:33.432Z [error] Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "User" | {}
+2023-11-17T05:33:03.412Z [error] Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "User" | {}
+2023-11-17T05:36:30.384Z [error] Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "User" | {}
+2023-11-17T05:36:54.357Z [error] Cast to ObjectId failed for value "test" (type string) at path "_id" for model "User" | {}
+2023-11-17T05:43:01.441Z [error] Cast to ObjectId failed for value "test" (type string) at path "_id" for model "User" | {}
+2023-11-17T05:49:08.062Z [error] Cast to ObjectId failed for value "test" (type string) at path "_id" for model "User" | {}
+2023-11-17T05:53:42.498Z [error] Cast to ObjectId failed for value "test" (type string) at path "_id" for model "User" | {}
+2023-11-17T05:54:23.238Z [error] Cast to ObjectId failed for value ":userId" (type string) at path "_id" for model "User" | {}
+2023-11-17T06:13:24.141Z [error] This email is already registered with us. Please try another email. | {}
+2023-11-17T07:04:23.733Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-17T07:04:34.463Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-17T07:04:58.662Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-17T07:06:19.879Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-17T07:06:28.652Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-17T07:06:33.509Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-17T07:07:13.183Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-17T07:11:00.283Z [error] Name is required. | {}
+2023-11-17T07:11:05.479Z [error] Expected double-quoted property name in JSON at position 32 | {}
+2023-11-17T07:11:12.340Z [error] Email is required. | {}
+2023-11-17T07:11:29.697Z [error] Expected ',' or '}' after property value in JSON at position 26 | {}
+2023-11-17T07:13:49.952Z [error] Please enter valid user ID. | {}
+2023-11-17T07:14:03.379Z [error] Please enter valid endpoint and method. | {}
+2023-11-17T07:14:12.349Z [error] Please enter valid endpoint and method. | {}
+2023-11-17T07:14:36.679Z [error] Cast to ObjectId failed for value ":userId" (type string) at path "_id" for model "User" | {}
+2023-11-17T07:15:03.455Z [error] This email is already registered with us. Please try another email. | {}
+2023-11-17T07:15:25.797Z [error] Please enter valid user ID. | {}
+2023-11-17T07:44:45.434Z [error] Cannot read properties of null (reading 'toJSON') | {}
+2023-11-17T07:46:29.328Z [error] Please enter valid endpoint and method. | {}
+2023-11-17T08:16:52.322Z [error] Please enter valid user ID. | {}
+2023-11-17T08:17:01.045Z [error] Please enter valid user ID. | {}
+2023-11-18T17:37:33.780Z [error] WriteConflict error: this operation conflicted with another operation. Please retry your operation or multi-document transaction. | {}
+2023-11-19T05:32:02.663Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-19T05:33:00.827Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-19T05:33:01.966Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-19T05:33:19.062Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-19T05:33:43.444Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-19T05:33:56.511Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-19T05:34:07.502Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-19T05:34:18.367Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-19T05:34:37.919Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-19T05:35:20.064Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-19T05:35:34.143Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-19T05:35:41.109Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-19T05:35:47.817Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-19T05:35:52.137Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-19T05:36:28.292Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
+2023-11-19T05:36:33.639Z [error] MONGODB ERROR: querySrv ECONNREFUSED _mongodb._tcp.ecom.dcyyix5.mongodb.net | {}
